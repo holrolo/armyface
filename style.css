@@ -387,3 +387,8 @@ body {
 .footer {
    text-align: center;
 }
+
+.add-banner {
+	width: 320px;
+	margin: 0 auto;
+}
