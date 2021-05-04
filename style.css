@@ -179,7 +179,7 @@ body {
 .image-upload-wrap {
 	width: 50%;	
 	position: relative;
-	height: 403px;
+	height: 303px;
 	object-fit: contain;
 	border-radius: 10px;
 	border: dashed 2px #35465d;
